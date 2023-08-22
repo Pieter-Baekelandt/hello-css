@@ -1,0 +1,16 @@
+body {
+  color: #414141;
+  background-color: #EEEEEE;
+}
+h1 {
+  font-size: 36px;
+}
+h2  {
+  font-size: 28px;
+}
+ul {
+  list-style-type: circle;
+}
+ol {
+  list-style-type: lower-roman;
+}
